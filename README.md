@@ -1,6 +1,7 @@
 # example
 
 Example Maven project generated using `maven-archetype-quickstart`
+added a new line for testing
 
 [https://jitpack.io/#jitpack/maven-simple](https://jitpack.io/#jitpack/maven-simple)
 
